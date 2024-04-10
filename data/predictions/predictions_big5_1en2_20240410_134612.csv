@@ -1,0 +1,43 @@
+Div,Date,Team,Opponent,Probability,Prediction,FTR2,Correct Prediction,AvgH,AvgD,AvgA,Value Bet
+0,20240317,Dortmund,Ein Frankfurt,0.671,1,1,True,1.62,4.43,4.92,0.09
+0,20240330,Bayern Munich,Dortmund,0.646,1,2,False,1.4,5.71,6.47,-0.1
+0,20240330,Leverkusen,Hoffenheim,0.778,1,1,True,1.22,7.36,11.77,-0.05
+0,20240330,RB Leipzig,Mainz,0.691,1,0,False,1.38,5.3,7.65,-0.05
+0,20240331,Stuttgart,Heidenheim,0.725,1,0,False,1.27,6.35,10.32,-0.08
+0,20240406,Mainz,Darmstadt,0.702,1,1,True,1.42,4.87,7.63,-0.0
+1,20240317,Hamburg,Wehen,0.675,1,1,True,1.48,4.7,5.79,-0.0
+1,20240331,St Pauli,Paderborn,0.642,1,1,True,1.59,4.25,5.0,0.02
+2,20240330,Aston Villa,Wolves,0.671,1,1,True,1.64,4.38,4.86,0.1
+2,20240330,Chelsea,Burnley,0.708,1,0,False,1.3,5.96,9.44,-0.08
+2,20240330,Tottenham,Luton,0.712,1,1,True,1.22,7.47,11.31,-0.13
+2,20240331,Liverpool,Brighton,0.723,1,1,True,1.37,5.63,7.37,-0.01
+2,20240403,Arsenal,Luton,0.876,1,1,True,1.1,11.25,22.73,-0.04
+2,20240403,Man City,Aston Villa,0.781,1,1,True,1.3,6.08,9.06,0.02
+2,20240404,Liverpool,Sheffield United,0.892,1,1,True,1.08,12.59,25.43,-0.04
+2,20240407,Tottenham,Nott'm Forest,0.764,1,1,True,1.4,5.3,7.23,0.07
+3,20240316,Ipswich,Sheffield Weds,0.657,1,1,True,1.53,4.32,6.0,0.01
+3,20240317,Leeds,Millwall,0.725,1,1,True,1.34,4.98,9.01,-0.03
+3,20240329,Norwich,Plymouth,0.707,1,1,True,1.47,4.66,6.37,0.04
+3,20240329,Preston,Rotherham,0.639,1,1,True,1.53,4.02,6.63,-0.02
+3,20240401,Coventry,Cardiff,0.654,1,2,False,1.53,4.28,6.0,0.0
+3,20240401,Leeds,Hull,0.739,1,1,True,1.43,4.75,6.98,0.06
+3,20240401,Leicester,Norwich,0.643,1,1,True,1.65,4.17,4.83,0.06
+3,20240406,Leicester,Birmingham,0.732,1,1,True,1.32,5.44,8.77,-0.03
+3,20240406,Middlesbrough,Swansea,0.638,1,1,True,1.82,3.79,4.15,0.16
+4,20240317,Monaco,Lorient,0.712,1,0,False,1.34,5.39,8.53,-0.05
+4,20240406,Lens,Le Havre,0.649,1,0,False,1.54,4.12,6.5,-0.0
+4,20240406,Paris SG,Clermont,0.756,1,0,False,1.18,7.87,14.32,-0.11
+4,20240407,Brest,Metz,0.662,1,1,True,1.52,4.01,7.1,0.01
+5,20240316,Guingamp,Valenciennes,0.683,1,1,True,1.52,3.77,6.75,0.04
+5,20240406,Annecy,Valenciennes,0.652,1,1,True,1.65,3.48,5.65,0.08
+5,20240406,St Etienne,Concarneau,0.708,1,1,True,1.42,4.39,7.04,0.01
+5,20240408,Auxerre,Troyes,0.734,1,1,True,1.43,4.47,6.44,0.05
+6,20240317,Juventus,Genoa,0.669,1,0,False,1.52,3.99,7.24,0.02
+6,20240317,Roma,Sassuolo,0.733,1,1,True,1.37,5.09,7.9,0.0
+6,20240401,Bologna,Salernitana,0.724,1,1,True,1.29,5.44,11.25,-0.07
+6,20240401,Inter,Empoli,0.765,1,1,True,1.2,7.04,13.25,-0.08
+6,20240406,Milan,Lecce,0.687,1,1,True,1.37,5.06,8.71,-0.06
+8,20240315,Sociedad,Cadiz,0.673,1,1,True,1.48,4.03,8.4,-0.0
+8,20240316,Ath Bilbao,Alaves,0.75,1,1,True,1.55,3.97,6.69,0.16
+8,20240331,Real Madrid,Ath Bilbao,0.687,1,1,True,1.55,4.29,5.87,0.06
+9,20240316,Eibar,Villarreal B,0.747,1,1,True,1.43,4.34,7.26,0.07

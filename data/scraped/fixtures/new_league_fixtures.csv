@@ -1,530 +1,123 @@
-<HTML>
-<HEAD>
-<TITLE>Football Betting | Football Results | Free Bets | Betting Odds</TITLE>
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@12Xpert" />
-<meta name="twitter:title" content="Football-Data.co.uk" />
-<meta name="twitter:description" content="Football results, betting odds, livescore, free bets, betting advice, odds comparison and lots more." />
-<meta name="twitter:image" content="https://www.football-data.co.uk/banner/ball_twitter2.jpg" />
-<META NAME="description" CONTENT="Free bets and football betting, historical football results and a betting odds archive, live scores, odds comparison, betting advice and betting articles - all free from Football-Data!">
-<META NAME="keywords" CONTENT="football betting, free bets, football results, soccer betting, livescore, free bet, odds comparison, livescores, compare odds, free betting offer, fantasy football, soccer live score, betting odds, fixed odds, soccer results, football data, tips, tipsters, match statistics">
-<META HTTP-EQUIV="author" CONTENT="Joseph Buchdahl">
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
-<link rel="stylesheet" href="style.css">
-<link rel="canonical" href="https://www.football-data.co.uk" />
-</HEAD>
-
-<body BGCOLOR="#FFFFFF" TEXT="#000000" ALINK="#6666CC" VLINK="#6666CC" LINK="#6666CC">
-
-
-<!-- Place this render call where appropriate -->
-<script type="text/javascript">
-  window.___gcfg = {lang: 'en-GB'};
-
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
-<TABLE align=center CELLSPACING=0 BORDER=0 CELLPADDING=0 WIDTH=800>
-<TR><td align=left><A HREF="https://www.football-data.co.uk/"><IMG SRC="https://www.football-data.co.uk/logo2.jpg" BORDER="0" ALT="Football Betting - Football Results - Free Bets"></A></td>
-
-<td colspan=5 align=right>
-
-<iframe src="https://banner.bet365partners.com/grm_1371-879-5-7-149-1-4123.aspx" width="468" height="60" frameborder="0" scrolling="no" rel="sponsored" click="${CLICKURL}"></iframe>
-
-
-</TD></TR>
-<tr><td height=19 valign=top>
-<select onChange="location=this.options[this.selectedIndex].value;" style="font-family:'Verdana';color:#000000;background-color:#FFFFFF;font-size:7pt;">
-<option>Network Sites
-<option>
-<option value="https://freebets.football-data.co.uk">Free Bets</option>
-<option value="https://livescore.football-data.co.uk">Football Livescore</option>
-<option value="https://betting.football-data.co.uk">Learn to Bet</option>
-<option value="http://www.tennis-data.co.uk">Tennis Betting</option>
-<option value="http://livescore.tennis-data.co.uk">Tennis Livescore</option>
-<option value="http://www.sports-tipsters.co.uk">Betting Tipsters</option>
-</select>
-</td>
-<td align=right width=290 height=19 align="right">
-Updated: 	 04/04/24</TD>
-<td height=19 align=right>
-<A HREF="https://www.football-data.co.uk/disclaimer.php"><img width=19 height=19 border=0 valign="middle" src="https://www.football-data.co.uk/banner/18.gif" alt="legal disclaimer"></a> <a href="http://www.BeGambleAware.org" target="_blank"><b>BeGambleAware</b></a>
-</TD>
-<td height=19 align=right>
-<a href="https://twitter.com/12Xpert" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @12Xpert</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</TD>
-</TR>
-</table>
-
-<TABLE align=center CELLSPACING=1 BORDER=0 CELLPADDING=0 WIDTH=800>
-<tr><td height=4></td></tr>
-</table>
-
-<TABLE align=center CELLSPACING=1 BORDER=0 CELLPADDING=1 WIDTH=800 bgcolor="#999999">
-<tr>
-<td align=center bgcolor="#F3F3F3"><div class="header"><B><A HREF="https://www.football-data.co.uk">Home</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div class="header"><B><A HREF="https://freebets.football-data.co.uk">Free Bets</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div class="header"><B><A HREF="https://livescore.football-data.co.uk">Livescores</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div class="header"><B><A HREF="https://www.football-data.co.uk/books.php">Betting Books</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div style="margin-top:1px; margin-left:1px; margin-right:1px; margin-bottom:1px;"><B><A target="_blank" HREF="https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=4123&AffiliateCode=grm_1371&CID=359&PID=149&TID=5">Acca Boost</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div style="margin-top:1px; margin-left:1px; margin-right:1px; margin-bottom:1px;"><B><A target="_blank" HREF="https://casino.bet365.com/opening-bonus?affiliate=grm_1371">Casino</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div style="margin-top:1px; margin-left:1px; margin-right:1px; margin-bottom:1px;"><B><A target="_blank" HREF="https://poker.bet365.com/opening-bonus?affiliate=grm_1371">Poker</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div style="margin-top:1px; margin-left:1px; margin-right:1px; margin-bottom:1px;"><B><A target="_blank" HREF="https://games.bet365.com/open-account?affiliate=grm_1371">Games</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div class="header"><B><A HREF="http://www.tennis-data.co.uk" TARGET="_blank">Tennis</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div class="header"><B><A HREF="https://www.begambleaware.org/" TARGET="_blank">Safer Gambling</A></B></div></td>
-<td align=center bgcolor="#F3F3F3"><div class="header"><B><A HREF="https://www.football-data.co.uk/contact.php">Contact</A></B></div></td>
-
-</tr>
-</table>
-
-<TABLE align=center CELLSPACING=1 BORDER=0 CELLPADDING=0 WIDTH=800>
-<tr><td height=5></td></tr>
-
-<!--
-<tr><td>
-<A href="https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=4123&AffiliateCode=grm_1371&CID=196&DID=87&TID=1&PID=149&LNG=1" target="_blank"><img width=100% src="https://imstore.bet365affiliates.com/?AffiliateCode=grm_1371&amp;CID=196&amp;DID=87&amp;TID=1&amp;PID=149&amp;LNG=1" border="0" /></A>
-</td></tr>
-<tr><td height=5></td></tr>
-</table> -->
-
-
-
-
-
-
-
-<TABLE align=center CELLSPACING=0 BORDER=0 CELLPADDING=0 WIDTH=800>
-<tr><td height=3></td></tr>
-
-<TR>
-<TD width=160 align=left valign=top>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">WORLD'S FAVOURITE BOOKMAKER</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target="_blank" rel="nofollow" HREF="https://www.bet365.com/olp/open-account/?affiliate=grm_1371"><B><img valign="middle" border=0 width="27" src="https://www.football-data.co.uk/banners/bookies/bet365.png"></a> <A target="_blank" rel="nofollow" HREF="https://www.bet365.com/olp/open-account/?affiliate=grm_1371"><B><font size="-1">bet365</font></b></a></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A rel="nofollow" HREF="https://freebets.football-data.co.uk/bet365.php"><B>&pound;30 Welcome Free Bet</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A rel="nofollow" HREF="https://www.football-data.co.uk/bet365_streaming.php"><B>In-Play & Streaming</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A rel="nofollow" HREF="https://www.football-data.co.uk/bet365_acca_boost.php"><B>Soccer Acca Boost</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A rel="nofollow" HREF="https://www.football-data.co.uk/bet365_6score.php"><B>6 Score Challenge</B></A></div></td></tr>
-</table><BR>
-
-<!--
-<A target="_blank" HREF="https://www.football-data.co.uk/opening_odds_alerts.php"><img src="https://www.football-data.co.uk/banners/banner-2.png" width=160></a><P> -->
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">NEW CUSTOMERS</FONT></B></div></td></tr>
-
-<tr><td class="menustd"><div class="menus"><A rel="nofollow" HREF="https://freebets.football-data.co.uk/50freebets.php"><B>&pound;50 Free Bets</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A rel="nofollow" HREF="https://freebets.football-data.co.uk/30freebets.php"><B>&pound;30 Free Bets</B></A></div></td></tr>
-</table><BR>
-
-
-<iframe src="https://banner.bet365partners.com/grm_1371-982-63-7-149-1-4123.aspx" width="160" height="600" frameborder="0" scrolling="no" rel="sponsored" click="${CLICKURL}"></iframe>
-<P>
-
-
-
-
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">BETTING ARTICLES</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/tipstrr.php"><B>tipstrr</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/betshare.php"><B>Betshares in Overs/Unders</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/closing_odds.php"><B>Analysing Tipsters</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/asian_handicap.php"><B>Asian Handicap</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/pinnacle_efficiency.php"><B>Closing Odds</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/premiership_unpredictable.php"><B>Unpredictable Premiership</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/psychology_of_betting.php"><B>Betting Psychology</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/steamers_and_drifters.php"><B>Steamers & Drifters</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/beat_the_market.php"><B>How Good are Tipsters?</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/hot_hand_streaks.php"><B>Betting Hot Hands</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/favourite_longshot_bias_revisited.php"><B>Favourite-Longshot Bias</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/favourite_longshot_bias_revisited_again.php"><B>Favourite-Longshot Bias 2</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/unwise_points_spread.php"><B>Point Spread Bias</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/power_ratings.php"><B>Power Ratings</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/wisdom_of_the_crowd.php"><B>Wisdom of Crowds</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/sports_betting_random.php"><B>Is Betting Random?</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/monkeys_throwing_darts.php"><B>Monkeys Throwing Darts</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/sports-betting_winners_and_losers.php"><B>How Many Win?</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/luck_skill_sports_betting.php"><B>Luck & Skill</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/kelly_staking.php"><B>Kelly Staking</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/martingale_progressive_staking.php"><B>Progressive Staking</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/tipster-verification.php"><B>Tipster Verification</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/Wald_Wolfowitz.php"><B>Scam Tipsters</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/model_testing.php"><B>Betting Model Testing</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/blog/archive.php"><B>Other Articles</B></A></div></td></tr>
-</table><BR>
-
-<a target="_blank" href="https://bfpartners.click/o/mMXTGk?site_id=4173&r_id=245&lpage=CKmDQQ"> <img width=100% src="https://activewins-uploads-bucket.s3.eu-west-1.amazonaws.com/campaign-public/resources/banner/images/img_17_1710520619.gif" id="amp-res-raven-245-1710593184541"></a> <script>(function(v){var r=v.document;var n="https://bfpartners.click/i/mMXTGk?r_id=245&site_id=4173";var e="#amp-res-raven-245-1710593184541";var t=r.querySelector(e);var i=function(e){var r=e.offsetTop;var n=r+e.clientHeight;var t=v.scrollY;var i=t+v.innerHeight;return n>t&&r<i};var o=function(){if(i(t)){var e=r.createElement("iframe");e.style.display="none";e.src=n;r.body.appendChild(e);v.removeEventListener("touchmove",o);v.removeEventListener("resize",o);v.removeEventListener("scroll",o)}};if(t){v.addEventListener("touchmove",o);v.addEventListener("resize",o);v.addEventListener("scroll",o);o()}})(window); </script><P>
-
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">BEST CASINO</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target="_blank" rel="nofollow" HREF="https://casino.bet365.com/opening-bonus?affiliate=grm_1371"><B>bet365</B></A></div></td></tr>
-</table><BR>
-
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div style="margin-top:2px; margin-left:5px; margin-right:5px; margin-bottom:2px;"><B><FONT COLOR="#FFFFFF">BEST POKER</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target="_blank" rel="nofollow" HREF="https://poker.bet365.com/opening-bonus?affiliate=grm_1371"><B>Bet365</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target="_blank" rel="nofollow" HREF="https://campaigns.williamhill.com/C.ashx?btag=a_87b_1052c_&affid=1213609&siteid=87&adid=1052&c="><B>William Hill</B></A></div></td></tr>
-</table><BR>
-
-<!--
-<A target="_blank" HREF="https://bet2invest.com/en/offers?affiliate=12Xpert#opening-odds"><img src="https://www.football-data.co.uk/banners/banner-3.png"></a><P>
--->
-
-<a target="_blank" href="https://campaigns.williamhill.com/C.ashx?btag=a_87b_1052c_&affid=1213609&siteid=87&adid=1052&c="> <img width=100% src="https://s0.2mdn.net/simgad/6555778137942114752"></a>
-
-
-</TD>
-
-<td width=10></td>
-
-<td valign=top>
-
-<B><P align=center><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 11pt; FONT-FAMILY: Verdana">Your <img align="absmiddle" alt="Football Betting Odds, Football Results, Free Bets, Football Scores" src="banner/free.jpeg" border=0> Football Betting, Scores & Results Service</Span><BR>
-<IMG Align="center" Src="separator.gif" vspace=2><BR>
-<Font size=2><A href="https://freebets.football-data.co.uk">Free Bets</a> | <A href="https://livescore.football-data.co.uk">Livescore</a> | <A href="data.php">Historical</a> | <A href="books.php">Books</a> | <A href="blog/index.php">Articles</a> | <A href="https://betting.football-data.co.uk">Learn</a></B></Font><BR>
-Free football betting odds & results data archive, live scores, match statistics, odds comparison, betting advice & football news..... <a href="#intro">Find out more.</a><P>
-
-
-<!-- Link
-<center>
-<TABLE cellSpacing=0 cellPadding=0 width=100% border=0>
-<TR><TD style="PADDING-RIGHT: 0pt; PADDING-LEFT: 0t; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt" bgColor=white valign=top>
-<P Align=center><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana"><a target="_blank" href="https://www.pinnacleoddsdropper.com/guides/joseph-buchdahl-beats-odds-with-value-bets-using-pinnacle?via=joseph"><b>If You Can't Beat Them, Join Them:<BR>
-Using Pinnacle to Build a Betting Methodology</b></a></SPAN>
-</TD>
-</TR>
-</TABLE>
-</center><P> -->
-
-<!-- Link -->
-<center>
-<TABLE cellSpacing=0 cellPadding=0 width=100% border=0>
-<TR><TD style="PADDING-RIGHT: 0pt; PADDING-LEFT: 0t; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt" bgColor=white valign=top>
-<P Align=center><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana"><a target="_blank" href="https://www.pinnacleoddsdropper.com/?via=joseph&ref=Buchdahl"><b>Get notified when
-Pinnacle's odds drop<BR>15% Discount & 21-day Money Back Guarantee</b></a><BR>
-<a href="pinnacle_odds_dropper.php"><b><small>Learn more about this service here</small></b></a>
-</SPAN>
-</TD>
-</TR>
-</TABLE>
-</center><P>
-
-
-<!-- Book -->
-<TABLE class=MsoNormalTable style="BACKGROUND: black; WIDTH: 468" cellSpacing=1 cellPadding=0 width=468 bgColor=black border=0>
-<tr>
-<TD style="PADDING-RIGHT: 0pt; PADDING-LEFT: 10pt; BACKGROUND: #FFFFFF; PADDING-BOTTOM: 10pt; PADDING-TOP: 10pt" bgColor="white"><P align=justify><img border=0 align=right hspace=10 vspace=10 height=140 src="monte_carlo.jpg"><FONT face=Verdana color=black><B>Monte Carlo Or Bust: Simple Simulations for Aspiring Sports Bettors</B> <i>by Joseph Buchdahl</i><BR>In addition to the famous Casino and the gambling fallacy that shares its name, 'Monte Carlo' is also used to describe a tool of statistical forecasting. A Monte Carlo simulation models the probability of uncertain outcomes that cannot be easily predicted from mathematical equations. My book describes how aspiring sports bettors can use a Monte Carlo simulation to improve the quality, and hopefully profitability, of their betting, unravelling the mystery of probability and variance that lies at its heart. 
-<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0857304852/footballdata-21" target="_blank"><B>Amazon</B></a> | <b><a href="https://play.google.com/store/books/details/Joseph_Buchdahl_Monte_Carlo_or_Bust?id=gZsvEAAAQBAJ" target="_blank">Google</a></b> | <b><a href="https://www.waterstones.com/book/monte-carlo-or-bust/joseph-buchdahl/9780857304858" target="_blank">Waterstones</a></b> | <a target="_blank" href="https://highstakespublishing.co.uk/index1.php?imprint=6&isbn=9780857304858"><B>High Stakes</B></a> | <a target="_blank" href="https://www.123pricecheck.com/product/0857304852-Monte-Carlo-Or-Bust.html"><B>PriceCheck</B></a>.</font><BR><font size="-3">As an Amazon Associate I earn from qualifying purchases.</font></td>
-</tr>
-</table><P>
-
-
-
-
-<!-- Bet365 -->
-<center><TABLE class=MsoNormalTable style="BACKGROUND: #999999; WIDTH: 468"
-        cellSpacing=1 cellPadding=0 width=468 bgColor=#999999 border=0>
-<iframe src="https://banner.bet365partners.com/grm_1371-879-5-7-149-1-4123.aspx" width="468" height="60" frameborder="0" scrolling="no" rel="sponsored" click="${CLICKURL}"></iframe>
-          <TBODY>
-          <TR>
-            <TD
-            class="freebets"
-            bgColor=white>
-              <P class=MsoNormal style="MARGIN-BOTTOM: 10pt"><B><FONT
-              face=Verdana color=black size=4><SPAN
-              style="FONT-WEIGHT: bold; FONT-SIZE: 13.5pt; FONT-FAMILY: Verdana">THE WORLD'S FAVOURITE BOOKMAKER</SPAN></FONT></B>
-              <P class=MsoNormal
-              style="MARGIN-BOTTOM: 10pt; mso-margin-top-alt: auto"><FONT
-              face=Verdana color=black size=1><SPAN
-              style="FONT-SIZE: 8.5pt; FONT-FAMILY: Verdana"><span id='tag20171129152629'></span>New UK customers: <b>Bet &pound;10, Get &pound;30</b>. Sign up, deposit between &pound;5 and &pound;10 to your account and bet365 will give you 3 times that value in Free Bets when you place qualifying bets to the same value and they are settled. Free Bets are paid as Bet Credits. Min odds/bet and payment method exclusions apply. Returns exclude Bet Credits stake. T&Cs, time limits & exclusions apply. Registration required. 18+. Please Gamble Responsibly. <a href="http://www.BeGambleAware.org" target="_blank">BeGambleAware.org</a> | <a href="http://www.gamstop.co.uk" target="_blank">GamStop</a>
-              <P class=MsoNormal
-              style="MARGIN-BOTTOM: 4pt; mso-margin-top-alt: auto"><FONT
-              face=Verdana color=black size=1><SPAN
-              style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana"><B><A target="_blank" rel="nofollow" HREF="https://www.bet365.com/olp/open-account/?affiliate=grm_1371">Join bet365 - the World's Favourite Bookmaker</a></B></SPAN></FONT></P>
-          <font color="#909090">Advertisment</font>
-          </TD></TR></TBODY></TABLE></center>   <P>
-        
-
-<!-- Disclaimer2 -->
-<center>
-<TABLE cellSpacing=1 cellPadding=0 width=100% bgColor=#999999 border=0>
-<TR><TD>
-<TABLE cellSpacing=0 cellPadding=0 width=100% border=0>
-<TR><TD style="PADDING-RIGHT: 10pt; PADDING-LEFT: 10pt; PADDING-BOTTOM: 3pt; PADDING-TOP: 3pt" bgColor=white valign=top>
-<P align="justify"><small>Football-Data's revenues come from losses accrued by customers of advertised bookmakers. Nearly all bettors lose in the long run. Users taking advantage of any advertised welcome offer should familiarise themselves with the bookmaker's T&Cs. Any information appearing on this website, including references to winning, profit, beating odds/bookmakers etc. should not be considered professional advice or a recommendation to bet or gamble. Furthermore, the small proportion of customers considered by bookmakers to be sufficiently skilled at beating their prices may find their stakes restricted or have their accounts closed. Both the UK Government and bookmakers alike maintain that betting and gambling in the UK should be considered a form of entertainment only and not a trade to make money. Please gamble responsibly. <b><u>NEVER</u></b> risk what you cannot affort to lose. <a href="https://www.begambleaware.org/" target="_blank">BeGambleAware</a>.</small>
-</TD></TR>
-</TABLE>
-</TD></TR>
-</TABLE>
-</center><P>
-	
-
-
-<!-- Book -->
-<TABLE class=MsoNormalTable style="BACKGROUND: black; WIDTH: 468" cellSpacing=1 cellPadding=0 width=468 bgColor=black border=0>
-<tr>
-<TD style="PADDING-RIGHT: 0pt; PADDING-LEFT: 10pt; BACKGROUND: #FFFFFF; PADDING-BOTTOM: 10pt; PADDING-TOP: 10pt" bgColor="white"><P align=justify><img border=0 align=right hspace=10 vspace=10 src="squares_sharps.jpg"><FONT face=Verdana color=black><B>Squares & Sharps, Suckers & Sharks: Science, Psychology & Philosophy of Gambling</B> <i>by Joseph Buchdahl</i><BR>People have been gambling, for money, entertainment, escape and a desire to win, for as long as history itself. However, these are secondary considerations to a craving for a sense of control over uncertainty, a sense that is almost always illusory. To find out why, Joseph Buchdahl explores the science of chance and probability, expectation and utility, the irrationality of human beings, evolutionary perspectives on gambling, luck and skill, the wisdom of crowds and much more besides. <b><a href="http://book.12xpert.co.uk/" target="_blank">Read more here...</a></b><BR>
-Order from: <a href="http://www.amazon.co.uk/exec/obidos/ASIN/1843448580/footballdata-21" target="_blank"><B>Amazon</B></a> | <b><a href="https://play.google.com/store/books/details/Joseph_Buchdahl_Squares_Sharps_Suckers_Sharks?id=s7MrDAAAQBAJ" target="_blank">Google</a></b> | <b><a href="https://www.waterstones.com/book/squares-and-sharps-suckers-and-sharks/joseph-buchdahl/9781843448587" target="_blank">Waterstones</a></b> | <a target="_blank" href="http://www.highstakespublishing.co.uk/squares-and-sharps-suckers-and-sharks"><B>High Stakes</B></a>.</font><BR><font size="-3">As an Amazon Associate I earn from qualifying purchases.</font></td>
-</tr>
-</table>
-
-
-
-
-
-<!-- BetFred  -->
-<center><TABLE class=MsoNormalTable style="BACKGROUND: #999999; WIDTH: 468"
-        cellSpacing=1 cellPadding=0 width=468 bgColor=#999999 border=0>
-<a target="_blank" href="https://bfpartners.click/o/mMXTGk?site_id=4173&r_id=254&lpage=CKmDQQ"> <img src="https://activewins-uploads-bucket.s3.eu-west-1.amazonaws.com/campaign-public/resources/banner/images/img_17_1710520759.gif" id="amp-res-raven-254-1710593257225"></a> <script>(function(v){var r=v.document;var n="https://bfpartners.click/i/mMXTGk?r_id=254&site_id=4173";var e="#amp-res-raven-254-1710593257225";var t=r.querySelector(e);var i=function(e){var r=e.offsetTop;var n=r+e.clientHeight;var t=v.scrollY;var i=t+v.innerHeight;return n>t&&r<i};var o=function(){if(i(t)){var e=r.createElement("iframe");e.style.display="none";e.src=n;r.body.appendChild(e);v.removeEventListener("touchmove",o);v.removeEventListener("resize",o);v.removeEventListener("scroll",o)}};if(t){v.addEventListener("touchmove",o);v.addEventListener("resize",o);v.addEventListener("scroll",o);o()}})(window); </script>
-         <TBODY>
-          <TR>
-            <TD
-            class="freebets"
-            bgColor=white>
-              <P class=MsoNormal style="MARGIN-BOTTOM: 10pt"><B><FONT
-              face=Verdana color=black size=4><SPAN
-              style="FONT-WEIGHT: bold; FONT-SIZE: 13.5pt; FONT-FAMILY: Verdana">&pound;50 in Free Bonuses</SPAN></FONT></B>
-              <P class=MsoNormal
-              style="MARGIN-BOTTOM: 10pt; mso-margin-top-alt: auto"><FONT
-              face=Verdana color=black size=1><SPAN
-              style="FONT-SIZE: 8.5pt; FONT-FAMILY: Verdana">New 18+ UK customers only. Register (excl. 13/04/2024) using the promo code WELCOME50, deposit and place first bet of &pound;10+ on Sports (cumulative Evens+) within 7 days and receive a &pound;20 in-play free bet, &pound;20 Football Acca free bet and 50 x £0.20 (&pound;10) Free Spins on Fishin’ Frenzy within 10 hours. Eligibility & payment exclusions apply. Free Bet stakes are not included in any returns. Bonuses have a 7-day expiry. Payment restrictions apply. SMS verification and/or Proof of I.D and address may be required. Full T&Cs apply. Please Gamble Responsibly. <a href="http://www.BeGambleAware.org" target="_blank">BeGambleAware.org</a> | <a href="http://www.gamstop.co.uk" target="_blank">GamStop</a>
-              <P class=MsoNormal
-              style="MARGIN-BOTTOM: 4pt; mso-margin-top-alt: auto"><FONT
-              face=Verdana color=black size=1><SPAN
-              style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana"><B><a target="_blank" rel="nofollow" href="https://bfpartners.click/o/mMXTGk?site_id=4173&r_id=254&lpage=CKmDQQ">Make Your Bet with Fred</a></B></SPAN></FONT></P>
-              <font color="#909090">Advertisment</font>
-              </TD></TR></TBODY></TABLE></center>   <P> 
-
-
-<!--
-<hr>
-<p align="center"><a href="The_Wisdom_of_the_Crowd_updated.pdf"><b><font size="3">WISDOM OF THE CROWD Updated</font></b></a></p>
-<p align="center"><a href="true_odds_calculator.xlsm"><b><font size="2">Plus Excel 'True' Odds Calculator</font></b></a></p>
-<hr><P> -->
-
-
-<a name="intro"></a>
-<!-- Intro -->
-<center>
-<TABLE cellSpacing=1 cellPadding=0 width=100% bgColor=#999999 border=0>
-<TR><TD>
-<TABLE cellSpacing=0 cellPadding=0 width=100% border=0>
-<TR><TD style="PADDING-RIGHT: 10pt; PADDING-LEFT: 10pt; PADDING-BOTTOM: 10pt; PADDING-TOP: 10pt" bgColor=white valign=top>
-<P align=left><B><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 13.5pt">WHAT IS FOOTBALL-DATA?</SPAN></B>
-<P align=justify>Football-Data is a free football betting portal providing <A href="data.php">historical results & odds</a> to help football betting enthusiasts analyse many years of data quickly and efficiently to gain an edge over the bookmaker. Whilst other football results and odds databases do exist, Football-Data is unique in making available computer-ready data in Excel and CSV format for quantitative analysis. Simply <A href="data.php#download">download</a> for free the available files, and learn more about how to use the data in Football-Data's free guide to <A href="ratings.pdf">rating systems</a> plus Football-Data's comprehensive <A href="http://betting.football-data.co.uk">betting guide</a>.
-<BR><BR>Alternatively, if you are just looking for the latest results, tables and team stats, try Football-Data's <A href="https://livescore.football-data.co.uk">livescore</a> service, with minute-by-minute scores as the goals go in. For the latest information about teams, players and transfers, Football-Data's <A href="https://news.football-data.co.uk">football news</a> site brings together all the best football and betting news wires under one roof. Altneratively, had a look at Football-Data's <a href="/blog/index.php">football betting articles</a>. <BR><BR>Football-Data also brings to the football punter the best free bets and bonuses from online sports bookmakers, including &pound;25, &pound;50 and &pound;100 free bet offers. The partnerships Football-Data has made with these advertising bookmakers help keep the site free for you. Use the <A href="https://freebets.football-data.co.uk">free bet</a> links or any of the banners on this page to find out moreabout these great offers.<BR><BR><a href="#intro2">Read on...</a>
-</TD></TR>
-</TABLE>
-</TD></TR>
-</TABLE>
-</center><P>
-
-
-
-<a name="2goalsahead"></A>
-<!-- Sponsors -->
-<center>
-<A href="https://imstore.bet365affiliates.com/Tracker.aspx?AffiliateId=4123&AffiliateCode=grm_1371&CID=194&DID=5&TID=1&PID=149&LNG=1" target="_blank"><img src="https://imstore.bet365affiliates.com/?AffiliateCode=grm_1371&amp;CID=194&amp;DID=5&amp;TID=1&amp;PID=149&amp;LNG=1" border="0" /></A>
-
-<TABLE cellSpacing=1 cellPadding=0 width=100% bgColor=#999999 border=0>
-<TR><TD>
-<TABLE cellSpacing=0 cellPadding=0 width=100% border=0>
-<TR><TD style="PADDING-RIGHT: 10pt; PADDING-LEFT: 10pt; PADDING-BOTTOM: 3pt; PADDING-TOP: 3pt" bgColor=white valign=top>
-<P align="justify">
-<b>BET365 2 GOALS AHEAD EARLY PAYOUT OFFER</b><p>
-<font color="#909090">Advertisment</font><P>
-<span id='tag20240321102803'></span><script type="text/javascript" src='https://imstore.bet365affiliates.com/PopulateText.aspx?AffiliateId=4123&AffiliateCode=grm_1371&TagName=tag20240321102803&CID=724&PID=149&LNG=1&NewWindow=Y&Mask=N'></script><script type="text/javascript">document.getElementById('tag20240321102803').innerHTML = returnText_tag20240321102803();</script>
-18+. Please Gamble Responsibly. <a href="http://www.BeGambleAware.org" target="_blank">BeGambleAware.org</a> | <a href="http://www.gamstop.co.uk" target="_blank">GamStop</a>
-
-</TD></TR>
-</TABLE>
-</TD></TR>
-</TABLE>
-</center><P>
-
-
-<a name="intro2"></a>
-<!-- Intro -->
-<center>
-<TABLE cellSpacing=1 cellPadding=0 width=100% bgColor=#999999 border=0>
-<TR><TD>
-<TABLE cellSpacing=0 cellPadding=0 width=100% border=0>
-<TR><TD style="PADDING-RIGHT: 10pt; PADDING-LEFT: 10pt; PADDING-BOTTOM: 10pt; PADDING-TOP: 10pt" bgColor=white valign=top>
-<P align=left><B><SPAN style="FONT-WEIGHT: bold; FONT-SIZE: 13.5pt">FOOTBALL-DATA's NETWORK PARTNERS</SPAN></B>
-<P align=justify>Football-Data is part of a network of betting sites. It's sister site <A href="http://www.tennis-data.co.uk" target="_blank">Tennis-Data</a> provides historical <A href="http://www.tennis-data.co.uk" target="_blank">tennis results and betting odds</a> data for the men's ATP and women's WTA tours. Like Football-Data, the data are completely free.
-<BR><BR>In addition to Football-Data's <A href="http://freebets.football-data.co.uk" target="_blank">free bets guide</a>, there is also a free chips and bonuses guide for <A href="http://casino.football-data.co.uk" target="_blank">casino</a> and <A href="http://poker.football-data.co.uk" target="_blank">poker</a>. And if you are looking to simply find the best price for your bet, look no further than Football-Data's <A href="http://odds.football-data.co.uk" target="_blank">odds comparison</a>.<BR><BR>Finally, if you still can't find what you're looking for here try Football-Data's network sister site <a href="http://www.betting-web.co.uk">Betting-Web</a> for other football and betting related resources that we have come across over the last 10 years. The best betting, picks, odds, stats and forum sites like <a href="https://www.betshoot.com/" target="_blank">Betshoot</a> are also shown here down the right hand side menu bars. 
-</TD></TR>
-</TABLE>
-</TD></TR>
-</TABLE>
-</center><P>
-
-
-
-
-
-
-
-
-
-
-<P>&copy; Football-Data. <a href="disclaimer.php">Liability Disclaimer</a>. All Rights Reserved.</P>
-
-<img src="banner/gamcare.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="banner/gambleaware.png">
-
-</P>
-
-</td>
-
-<td width=10></td>
-
-<td valign=top width=152>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">SITE RESOURCES</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A title="historical football results and betting odds data archive" HREF="https://www.football-data.co.uk/data.php"><B>Historical Data</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://betting.football-data.co.uk"><B>Learn to Bet</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://freebets.football-data.co.uk"><B>Free Bets</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/books.php">Books</A></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/links.php">Other Sites</A></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/link.php">Like Football-Data</A></B></div></td></tr>
-</table><BR>
-
-<A HREF="https://www.football-data.co.uk/pinnacle_odds_dropper.php"><img src="https://www.football-data.co.uk/banners/1a.jpg" width=152></a><P>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">BETTING SYSTEMS</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/ratings.pdf"><b>Football Ratings</b></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/wisdom_of_crowd_bets.php">Wisdom of Crowds</A></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/profitable_betting_system.php"><b>Contrarian Betting</b></A></div></td></tr>
-<!-- 
-<tr><td class="menustd"><div class="menus"><B><A target="_blank" HREF="https://www.football-data.co.uk/opening_odds_alerts.php">Opening Odds Alerts <font color="red">NEW</font></A></B></div></td></tr>
--->
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/pinnacle_odds_dropper.php">Pinnacle Odds Drop <font color="red">NEW</font></A></B></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">BETTING ARTICLES</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/blog/index.php">In-House Articles</A></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.pinnacle.com/en/betting-resources/author/joseph-buchdahl" target="_blank">Pinnacle Sportsbook</A></B></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">BET CALCULATORS</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/true_odds_calculator.xlsm" TARGET="_blank">Fair Odds</A></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/blog/P-value_calculator.xlsx" TARGET="_blank">P-value</A></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/yield_distribution_calculator.xlsx" TARGET="_blank">Yields</A></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/percentage_staking_bank_growth_distribution_calculator.xlsx" TARGET="_blank">Bank growth</A></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/EV_odds_function_calculator.xlsx" TARGET="_blank">EV-odds</A></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><B><A HREF="https://www.football-data.co.uk/Kelly_animation.gif" TARGET="_blank">Staking Animation</A></B></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">ODDS & RESULTS:<BR>MAIN LEAGUES</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/matches.php"><b>Latest Matches</b></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/englandm.php"><b>England</b></A> <A HREF="https://www.football-data.co.uk/englandm.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/england.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/scotlandm.php"><b>Scotland</b></A> <A HREF="https://www.football-data.co.uk/scotlandm.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/scotland.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/germanym.php"><b>Germany</b></A> <A HREF="https://www.football-data.co.uk/germanym.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/germany.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/italym.php"><b>Italy</b></A> <A HREF="https://www.football-data.co.uk/italym.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/italy.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/spainm.php"><b>Spain</b></A> <A HREF="https://www.football-data.co.uk/spainm.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/spain.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/francem.php"><b>France</b></A> <A HREF="https://www.football-data.co.uk/francem.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/france.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/netherlandsm.php"><b>Netherlands</b></A> <A HREF="https://www.football-data.co.uk/netherlandsm.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/holland.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/belgiumm.php"><b>Belgium</b></A> <A HREF="https://www.football-data.co.uk/belgiumm.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/belgium.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/portugalm.php"><b>Portugal</b></A> <A HREF="https://www.football-data.co.uk/portugalm.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/portugal.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/turkeym.php"><b>Turkey</b></A> <A HREF="https://www.football-data.co.uk/turkeym.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/turkey.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/greecem.php"><b>Greece</b></A> <A HREF="https://www.football-data.co.uk/greecem.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/greece.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/downloadm.php"><B>All Divisions</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><table cellpadding=0 border=0><td><b>Updates&nbsp;</b></td><td><a href="https://twitter.com/12Xpert" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @12Xpert</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><t/td></table></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">ODDS & RESULTS:<BR>EXTRA LEAGUES</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/matches_new_leagues.php"><b>Latest Matches</b></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/argentina.php"><b>Argentina</b></A> <A HREF="https://www.football-data.co.uk/argentia.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/argentia.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/austria.php"><b>Austria</b></A> <A HREF="https://www.football-data.co.uk/austria.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/austria.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/brazil.php"><b>Brazil</b></A> <A HREF="https://www.football-data.co.uk/brazil.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/brazil.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/china.php"><b>China</b></A> <A HREF="https://www.football-data.co.uk/china.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/china.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/denmark.php"><b>Denmark</b></A> <A HREF="https://www.football-data.co.uk/denmark.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/denmark.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/finland.php"><b>Finland</b></A> <A HREF="https://www.football-data.co.uk/finland.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/finland.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/ireland.php"><b>Ireland</b></A> <A HREF="https://www.football-data.co.uk/ireland.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/ireland.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/japan.php"><b>Japan</b></A> <A HREF="https://www.football-data.co.uk/japan.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/japan.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/mexico.php"><b>Mexico</b></A> <A HREF="https://www.football-data.co.uk/mexico.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/mexico.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/norway.php"><b>Norway</b></A> <A HREF="https://www.football-data.co.uk/norway.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/norway.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/poland.php"><b>Poland</b></A> <A HREF="https://www.football-data.co.uk/poland.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/poland.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/romania.php"><b>Romania</b></A> <A HREF="https://www.football-data.co.uk/romania.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/romania.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/russia.php"><b>Russia</b></A> <A HREF="https://www.football-data.co.uk/russia.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/russia.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/sweden.php"><b>Sweden</b></A> <A HREF="https://www.football-data.co.uk/sweden.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/sweden.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/switzerland.php"><b>Switzerland</b></A> <A HREF="https://www.football-data.co.uk/switzerland.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/swiss.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/usa.php"><b>USA</b></A> <A HREF="https://www.football-data.co.uk/usa.php"><IMG border=0 align="right" SRC="http://livescore.football-data.co.uk/flags/usa.gif"</A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/all_new_data.php"><B>All Divisions</B></A></div></td></tr>
-</table><BR>
-
-<A target=_"blank" HREF="https://www.pinnacleoddsdropper.com/?via=joseph&ref=Buchdahl"><img src="https://www.football-data.co.uk/banners/POD_BANNER_AD_US.png" width=152></a><P>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">TOP RESOURCES</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="http://www.bettingadvice.com"><B>Betting Advice</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/resources/winabobatoo.php"><b>Football Ratings</b></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="../resources/goonersguide.php"><B>Gooners Guide</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="http://www.top100bookmakers.com/"><B>Top 100 Bookmakers</B></A></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">LIVESCORES</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="http://livescore.football-data.co.uk"><B>Live Scores</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="https://www.flashscore.co.uk"><B>Football Scores</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="https://www.flashscore.com"><B>Live Soccer</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="../resources/statisticsports.php"><B>Statisticsports</B></A></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">STATS</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="https://www.accastats.com/"><B>AccaStats</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="https://footystats.org"><B>FootyStats</B></A></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">ODDS</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="http://www.oddsportal.com/"><B>Betting Odds</B></A></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">BETTING</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="https://www.football-data.co.uk/resources/allforbets.php"><B>All For Bets</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="http://www.betexplorer.com/"><B>BetExplorer</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="https://caanberry.com/"><B>Betfair Trading</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="../resources/godsofodds.php"><B>GodsOfOdds</B></A></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="https://www.soccerwidow.com/" title="About Football, Gambling, Statistics, Betting Maths and Strategies"><B>Soccerwidow</B></A></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">FOOTBALL</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A HREF="http://injuriesandsuspensions.com" target=_"blank"><b>Injuries & Suspensions</b></A></div></td></tr>
-</table><BR>
-
-<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#999999">
-<tr><td bgcolor="#AAAAAA"><div class="menus"><B><FONT COLOR="#FFFFFF">TOP FORUMS</FONT></B></div></td></tr>
-<tr><td class="menustd"><div class="menus"><A target=_"blank" HREF="http://www.punterslounge.com"><b>Punters Lounge</b></A></div></td></tr>
-</table><BR>
-
-</TD>
-
-</TR></TABLE>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-3105660-1";
-urchinTracker();
-</script>
-</BODY>
-</HTML>
+Country,League,Date,Time,Home,Away,PH,PD,PA,MaxH,MaxD,MaxA,AvgH,AvgD,AvgA
+China,Super League,09/04/2024,11:00,Nantong Zhiyun,Shanghai Port,5.85,4.79,1.48,6.5,4.79,1.5,6.09,4.51,1.45
+China,Super League,09/04/2024,12:35,Beijing Guoan,Shenzhen Xinpengcheng,1.64,4.05,5.07,1.67,4.2,5.5,1.61,3.85,5.14
+China,Super League,09/04/2024,12:35,Shandong Taishan,Henan Songshan Longmen,1.57,4.33,5.34,1.59,4.5,5.7,1.54,4.17,5.26
+China,Super League,09/04/2024,13:00,Shanghai Shenhua,Wuhan Three Towns,1.47,4.52,6.45,1.51,4.65,7.5,1.44,4.41,6.44
+China,Super League,10/04/2024,12:00,Qingdao West Coast,Tianjin Jinmen Tiger,3.12,3.37,2.31,3.12,3.6,2.38,2.87,3.39,2.3
+China,Super League,10/04/2024,12:35,Cangzhou,Changchun Yatai,2.12,3.75,3.21,2.17,3.75,3.3,2.11,3.55,3.08
+China,Super League,10/04/2024,12:35,Chengdu Rongcheng,Zhejiang Professional,1.8,3.65,4.49,1.87,3.72,4.75,1.82,3.54,4.05
+China,Super League,10/04/2024,13:00,Meizhou Hakka,Qingdao Hainiu,2.22,3.54,3.16,2.25,3.58,3.5,2.17,3.37,3.1
+Finland,Veikkausliiga,11/04/2024,16:00,HJK,Lahti,1.41,5.08,7.53,1.43,5.08,7.53,1.39,4.69,6.91
+Japan,J1 League,10/04/2024,11:00,Yokohama F. Marinos,Gamba Osaka,1.91,3.95,3.89,1.92,4,4,1.87,3.78,3.77
+Japan,J1 League,12/04/2024,11:00,Kashiwa Reysol,Urawa Reds,2.79,3.15,2.76,2.83,3.25,2.76,2.72,3.09,2.67
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
