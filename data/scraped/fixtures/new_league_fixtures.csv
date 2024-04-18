@@ -19,16 +19,15 @@ Austria,Bundesliga,13/04/2024,16:00,Tirol,BW Linz,2.66,3.16,2.93,2.66,3.3,2.93,2
 Austria,Bundesliga,13/04/2024,16:00,Wolfsberger AC,Austria Vienna,3.1,3.15,2.54,3.1,3.28,2.54,2.92,3.16,2.46
 Austria,Bundesliga,14/04/2024,13:30,Hartberg,Sturm Graz,4.98,3.82,1.75,5,3.83,1.8,4.59,3.61,1.74
 Austria,Bundesliga,14/04/2024,16:00,SK Rapid,A. Klagenfurt,1.58,4.26,5.94,1.59,4.3,6,1.54,4.08,5.67
-Brazil,Serie A,13/04/2024,22:30,Criciuma,Juventude,2.31,3.16,3.53,2.31,3.3,3.6,2.21,3.15,3.45
-Brazil,Serie A,13/04/2024,22:30,Internacional,Bahia,1.73,3.75,5.21,1.75,3.8,5.5,1.72,3.62,5
-Brazil,Serie A,14/04/2024,01:00,Fluminense,Bragantino,1.96,3.52,4.14,2.04,3.55,4.14,1.97,3.42,3.85
-Brazil,Serie A,14/04/2024,01:00,Sao Paulo,Fortaleza,2,3.3,4.32,2.01,3.4,4.32,1.96,3.26,4.09
-Brazil,Serie A,14/04/2024,20:00,Athletico-PR,Cuiaba,1.59,3.82,6.87,1.62,3.95,7.5,1.57,3.73,6.45
-Brazil,Serie A,14/04/2024,20:00,Atletico GO,Flamengo RJ,4.66,4.03,1.74,5,4.03,1.78,4.64,3.75,1.73
-Brazil,Serie A,14/04/2024,20:00,Corinthians,Atletico-MG,2.73,2.98,3.02,2.73,3.1,3.03,2.64,2.96,2.91
-Brazil,Serie A,14/04/2024,20:00,Vasco,Gremio,2.31,3.24,3.42,2.31,3.34,3.45,2.21,3.23,3.29
-Brazil,Serie A,14/04/2024,21:00,Cruzeiro,Botafogo RJ,2.37,3.17,3.37,2.37,3.2,3.5,2.27,3.09,3.34
-Brazil,Serie A,14/04/2024,22:30,Vitoria,Palmeiras,4.86,4.07,1.71,4.86,4.07,1.79,4.6,3.84,1.71
+Brazil,Serie A,17/04/2024,01:30,Bahia,Fluminense,2.21,3.42,3.45,2.25,3.46,3.45,2.18,3.35,3.3
+Brazil,Serie A,17/04/2024,23:00,Bragantino,Vasco,1.91,3.41,4.56,1.95,3.55,4.56,1.89,3.39,4.22
+Brazil,Serie A,17/04/2024,23:00,Gremio,Athletico-PR,2.41,3.35,3.14,2.41,3.45,3.25,2.33,3.31,3.06
+Brazil,Serie A,18/04/2024,00:00,Atletico-MG,Criciuma,1.38,4.84,9.1,1.41,4.84,10.5,1.38,4.54,8.48
+Brazil,Serie A,18/04/2024,00:00,Fortaleza,Cruzeiro,1.93,3.44,4.41,2,3.44,4.5,1.93,3.31,4.16
+Brazil,Serie A,18/04/2024,00:00,Juventude,Corinthians,3.09,3.02,2.64,3.09,3.13,2.65,2.94,3.02,2.57
+Brazil,Serie A,18/04/2024,00:00,Palmeiras,Internacional,1.71,3.8,5.32,1.72,3.8,5.6,1.68,3.68,5.17
+Brazil,Serie A,18/04/2024,01:30,Flamengo RJ,Sao Paulo,1.56,4.12,6.54,1.6,4.12,7,1.56,3.95,6.08
+Brazil,Serie A,19/04/2024,01:30,Botafogo RJ,Atletico GO,1.72,3.91,5.02,1.72,3.98,5.5,1.68,3.72,5.01
 China,Super League,13/04/2024,08:30,Henan Songshan Longmen,Nantong Zhiyun,,,,1.98,3.67,3.91,1.92,3.48,3.63
 China,Super League,13/04/2024,12:35,Shanghai Shenhua,Beijing Guoan,1.57,3.95,5.98,1.63,4.02,6,1.57,3.84,5.56
 China,Super League,14/04/2024,08:30,Changchun Yatai,Chengdu Rongcheng,,,,4.01,3.75,1.9,3.73,3.6,1.86
@@ -72,14 +71,9 @@ Mexico,Liga MX,14/04/2024,04:10,Monterrey,U.A.N.L.- Tigres,2.19,3.46,3.47,2.19,3
 Mexico,Liga MX,15/04/2024,01:00,Atlas,Atl. San Luis,1.93,3.77,3.95,2,3.77,4.2,1.93,3.58,3.7
 Mexico,Liga MX,15/04/2024,01:00,U.N.A.M.- Pumas,Club Leon,2.01,3.88,3.59,2.01,3.88,3.8,1.94,3.73,3.5
 Mexico,Liga MX,15/04/2024,03:06,Juarez,Club Tijuana,2.4,3.3,3.19,2.45,3.38,3.4,2.35,3.21,3.01
-Norway,Eliteserien,13/04/2024,17:00,Fredrikstad,Sarpsborg 08,2.5,3.36,2.98,2.6,3.45,2.98,2.43,3.3,2.88
-Norway,Eliteserien,14/04/2024,13:30,Viking,Brann,2.66,3.79,2.54,2.66,3.95,2.6,2.6,3.63,2.48
-Norway,Eliteserien,14/04/2024,16:00,Molde,Kristiansund,1.29,6.34,8.87,1.31,6.34,10,1.28,5.93,8.63
-Norway,Eliteserien,14/04/2024,16:00,Odd,Sandefjord,1.96,3.69,3.96,2,3.75,4.2,1.92,3.59,3.78
-Norway,Eliteserien,14/04/2024,16:00,Rosenborg,HamKam,1.68,3.99,5.3,1.71,4.1,5.75,1.65,3.84,5.02
-Norway,Eliteserien,14/04/2024,16:00,Tromso,Haugesund,1.74,4.18,4.5,1.76,4.2,5,1.71,3.9,4.48
-Norway,Eliteserien,14/04/2024,18:15,Lillestrom,Bodo/Glimt,3.76,4.05,1.92,4,4.05,1.92,3.72,3.84,1.87
 Norway,Eliteserien,16/04/2024,18:00,KFUM Oslo,Stromsgodset,2.75,3.61,2.51,2.75,3.61,2.55,2.66,3.44,2.5
+Norway,Eliteserien,17/04/2024,17:00,Brann,HamKam,1.32,6.04,8.76,1.32,6.04,10,1.3,5.5,8.63
+Norway,Eliteserien,17/04/2024,17:00,Molde,Odd,1.32,5.93,9.03,1.32,5.93,10,1.31,5.49,8.7
 Poland,Ekstraklasa,12/04/2024,17:00,Warta Poznan,Korona Kielce,3.05,2.78,2.85,3.05,2.98,2.88,2.88,2.83,2.69
 Poland,Ekstraklasa,12/04/2024,19:30,Pogon Szczecin,Ruch Chorzow,1.43,4.88,7.04,1.45,4.88,7.04,1.42,4.61,6.58
 Poland,Ekstraklasa,13/04/2024,14:00,Stal Mielec,Widzew Lodz,3.1,3.26,2.44,3.1,3.4,2.45,2.93,3.25,2.36
