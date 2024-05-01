@@ -1,0 +1,15 @@
+Div,Date,Time,Team,Opponent,FTR,team_points,opp_points,Prediction,team_elo,opp_elo,Prob1,ProbX,Prob2,AvgH,AvgD,AvgA,1X2,Correct,Confidence
+USA,20240421,0,Atlanta Utd,FC Cincinnati,2,1.571,1.5,1,1466,1372,"0,523","0,239","0,238","2,05","3,77","3,3",1X,False,0.76
+USA,20240421,0,CF Montreal,Orlando City,X,1.429,1.143,1,1407,1416,"0,442","0,312","0,246","2,83","3,4","2,44",1X,True,0.75
+USA,20240421,23,Charlotte,Minnesota United,2,1.375,1.571,1,1421,1435,"0,527","0,283","0,19","1,96","3,67","3,65",1X,False,0.81
+USA,20240421,1,Chicago Fire,Real Salt Lake,2,1.125,1.5,2,1336,1480,"0,234","0,369","0,397","2,05","3,65","3,39",X2,True,0.77
+USA,20240421,2,Colorado Rapids,FC Dallas,1,1.5,0.714,X,1339,1463,"0,261","0,436","0,303","1,64","3,82","5,48",X2,False,0.74
+USA,20240421,0,Columbus Crew,Portland Timbers,X,1.625,1.125,X,1413,1429,"0,302","0,433","0,265","1,56","4,25","5,55",1X,True,0.73
+USA,20240421,1,Houston Dynamo,Austin FC,2,1.857,1.125,X,1340,1390,"0,341","0,404","0,255","1,73","3,83","4,57",1X,False,0.75
+USA,20240421,0,Inter Miami,Nashville SC,1,1.667,1.0,1,1350,1366,"0,424","0,348","0,228","1,42","4,6","7,32",1X,True,0.77
+USA,20240421,3,Los Angeles FC,New York Red Bulls,X,1.375,1.875,1,1481,1432,"0,436","0,296","0,269","1,8","3,62","4,44",1X,True,0.73
+USA,20240421,0,New York City,DC United,1,1.0,1.25,1,1423,1315,"0,449","0,357","0,193","1,7","3,85","4,74",1X,True,0.81
+USA,20240421,3,Seattle Sounders,Vancouver Whitecaps,2,0.857,1.857,1,1416,1374,"0,447","0,332","0,221","1,77","3,57","4,78",1X,False,0.78
+USA,20240421,1,Sporting Kansas City,St. Louis City,X,1.25,1.375,X,1439,1489,"0,231","0,431","0,338","1,96","3,68","3,65",X2,True,0.77
+USA,20240421,0,Toronto FC,New England Revolution,1,1.25,0.571,X,1341,1332,"0,33","0,425","0,245","2,27","3,49","3,06",1X,True,0.76
+USA,20240422,1,Los Angeles Galaxy,San Jose Earthquakes,1,1.875,0.375,1,1443,1374,"0,422","0,33","0,248","1,52","4,73","5,38",1X,True,0.75

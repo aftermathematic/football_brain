@@ -1,0 +1,1 @@
+{'ARG': 0, 'AUT': 1, 'BRA': 2, 'CHN': 3, 'DNK': 4, 'FIN': 5, 'IRL': 6, 'JPN': 7, 'MEX': 8, 'NOR': 9, 'POL': 10, 'ROU': 11, 'RUS': 12, 'SWE': 13, 'SWZ': 14, 'USA': 15}
