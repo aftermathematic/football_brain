@@ -16,7 +16,7 @@ Data Collection
 Sources of Data
 Types of Data Collected
 Data Cleaning and Preprocessing
-Handling Missing Data
+Handling Missing Datax 
 Normalization and Standardization
 Feature Selection and Engineering
 
